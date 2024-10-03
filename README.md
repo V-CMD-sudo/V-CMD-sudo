@@ -13,9 +13,7 @@
   ##Python
   ##Jupyter Notebooks
 ##Feel free to explore, contribute, or reach out with suggestions!<!--
-**V-CMD-sudo/V-CMD-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 -🔭 I’m currently working on hands-on AI projects using Azure OpenAI, exploring practical applications like NLP, automation, and advanced chatbots.
 
