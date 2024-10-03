@@ -2,8 +2,6 @@
 
 ## Hands-on AI Projects with Azure OpenAI
 ## Welcome to my repository for hands-on AI projects powered by Azure OpenAI! This space showcases the exploration and development of cutting-edge AI models, leveraging Azure's robust capabilities to solve real-world challenges.
-
-
 ##Azure OpenAI Integrations: Examples of utilizing GPT models for various NLP tasks.
 ##AI Model Development: Fine-tuning and deploying models to address specific business needs.
 ##Data Processing: Techniques for preparing and feeding data into OpenAI models on Azure.
@@ -13,7 +11,6 @@
   ##Python
   ##Jupyter Notebooks
 ##Feel free to explore, contribute, or reach out with suggestions!<!--
-
 
 -🔭 I’m currently working on hands-on AI projects using Azure OpenAI, exploring practical applications like NLP, automation, and advanced chatbots.
 
@@ -25,7 +22,7 @@
 
 -💬 Ask me about AI in product management, Azure OpenAI, or data warehousing strategies.
 
--📫 How to reach me: Follow me on my LinkedIn profile and subscribe to my newsletter for updates on my latest projects.
+-📫 How to reach me: Follow me on my LinkedIn profile and subscribe to my newsletter for updates on my latest projects.https://www.linkedin.com/in/vijaya-ojili/
 
 -😄 Pronouns: She/Her
 
